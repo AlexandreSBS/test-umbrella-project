@@ -2,5 +2,5 @@
 	path = API
 	url = https://github.com/AlexandreSBS/test-subproject
 [submodule "Sei la"]
-	path = API
+	path = seila
 	url = https://github.com/AlexandreSBS/Hold-the-money
